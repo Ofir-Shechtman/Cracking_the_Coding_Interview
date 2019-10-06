@@ -212,7 +212,7 @@ int main() {
     //cout << m1 << endl;
     //int m2[5][4] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19};
     //ZeroMatrix(m2);
-    cout<< isSubstring("erbottle", "waterbottle") << endl;
-    cout<< StringRotation("waterbottle", "erbottlewat") << endl;
+    //cout<< isSubstring("erbottle", "waterbottle") << endl;
+    //cout<< StringRotation("waterbottle", "erbottlewat") << endl;
     return 0;
 }
